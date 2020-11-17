@@ -1,0 +1,13 @@
+/.vs
+/RecommendationSystem/.vs
+/RecommendationSystem/Migrations
+/RecommendationSystem/bin
+/RecommendationSystem/obj
+/DataAccess/obj
+/DataAccess/bin
+/Entities/obj
+/Entities/bin
+/Services/obj
+/Services/bin
+/Authentication/bin
+/Authentication/obj
